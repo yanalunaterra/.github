@@ -9,6 +9,7 @@ result in the least total amount of pain for me and those who care. \_Why?
 - it is GPL-2.0 compatible;
 - it is OSI approved;
 - it is the only license on
-  [Blue Oak Council License List](https://blueoakcouncil.org/list) rated "Gold".
+  [Blue Oak Council License List](https://blueoakcouncil.org/list) rated
+  $\color{BurntOrange}{Gold}$.
 
 [BSD-2-Clause-Patent]: https://spdx.org/licenses/BSD-2-Clause-Patent.html
