@@ -8,6 +8,7 @@ result in the least total amount of pain for me and those who care. \_Why?
 - It has an explicit patent grant;
 - it is GPL-2.0 compatible;
 - it is OSI approved;
+- it is implicitly compatible with 🐡 [OpenBSD Copyright Policy](https://www.openbsd.org/policy.html);
 - it is the only license on
   [Blue Oak Council License List](https://blueoakcouncil.org/list) rated
   $\color{BurntOrange}{Gold}$.
