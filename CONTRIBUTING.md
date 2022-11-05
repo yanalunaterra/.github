@@ -1,4 +1,4 @@
-I'm not accepting pull requests for projects with a disabled issue tracker.
+I'm not accepting pull requests to projects with a disabled issue tracker.
 If you can see the "Issues" tab, your pull request is welcome!
 
 Please sign off on each commit to certify that you agree to the terms of [Developer Certificate of Origin][]. See [`git-commit(1)` `--signoff`][git-commit-signoff].
