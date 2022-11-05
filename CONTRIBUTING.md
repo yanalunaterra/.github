@@ -7,5 +7,5 @@ Please sign off on each commit to certify that you agree to the terms of [Develo
 [git-commit-signoff]: https://git-scm.com/docs/git-commit#Documentation/git-commit.txt--s](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---signoff
 
 If you plan to work on a non-trivial patch, let's talk it out first. I will
-guide you to make sure your work fits my design. Email me what you're up to
+help you make sure your work fits my design. Email me what you're up to
 together with your Discord/Signal/Telegram handle ^^
