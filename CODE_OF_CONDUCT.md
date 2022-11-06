@@ -94,4 +94,6 @@ please be nice it's really not that hard
 
 ---
 
-licensed under [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/)
+licensed under [CC BY-NC-ND 3.0][]
+
+[CC BY-NC-ND 3.0]: https://creativecommons.org/licenses/by-nc-nd/3.0/
